@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="uv" xmlns="xs" elementFormDefault="qualified">
+</xs:schema>
+<root>
+<bookstore>
+	<book category="fiction">
+	<title lang="English">Everyday Javascriot</title>
+	<author> Joey </author>
+	<year>2007</year>
+	<price>90</price>
+	</book>
+</bookstore>
+</root>
